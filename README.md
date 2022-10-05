@@ -3,5 +3,7 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [МО для текстов](comments_toxic) | Требуется разработать инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. | *Python Pandas Sklearn tf-idf nltk  lightgbm* |
-| [Прогноз заказов такси](taxi-orders) | Прогноз количества заказов такси на следующий час. | *Python Pandas Sklearn statsmodels lightgbm catboost* |
+| [МО для текстов](comments_toxic) | Требуется разработать инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. | *python pandas sklearn tf-idf nltk  lightgbm* |
+| [Прогноз заказов такси](taxi-orders) | Прогноз количества заказов такси на следующий час. | *python pandas sklearn statsmodels lightgbm catboost* |
+| [Отток клиентов](telecom) | Прогноз оттока клиентов Оператора связи. | *python pandas seaborn matplotlib phik imblearn sklearn  lightgbm catboost* |
+
