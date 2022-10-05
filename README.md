@@ -1,2 +1,3 @@
 # Yandex-projects
-Projects were performed during Y.Practicum education.
+Данные проекты были выполнены в рамках курса "Специалист по Data Science" от Я.Практикум.
+
