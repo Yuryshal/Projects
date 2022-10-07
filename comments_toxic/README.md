@@ -14,4 +14,4 @@
 Обучить модель классифицировать комментарии на токсичность: позитивные и негативные.  
 
 ## Используемые библиотеки
-*python pandas sklearn tf-idf nltk lightgbm*
+*python pandas sklearn tf-idf nltk lightgbm log_regression random_forest*
