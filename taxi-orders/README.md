@@ -14,5 +14,5 @@
 Необходимо построить модель для предсказания количества заказов такси на следующий час.  
 
 ## Используемые библиотеки
-*python pandas sklearn statsmodels lightgbm catboost*
+*python pandas sklearn statsmodels lightgbm catboost linear_regression*
 
