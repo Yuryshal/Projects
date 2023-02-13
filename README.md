@@ -11,6 +11,7 @@
 | [Определение стоимости авто](car_price) | Прогноз стоимости авто с помощью моделей регрессии. | *python pandas seaborn matplotlib phik sklearn random_forest gradient_boosting autogluon* |
 | [МО для текстов](comments_toxic) | Требуется разработать инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. | *python pandas sklearn tf-idf nltk  lightgbm log_regression random_forest* |
 | [Прогноз заказов такси](taxi-orders) | Прогноз количества заказов такси на следующий час. | *python pandas sklearn statsmodels lightgbm catboost linear_regression* |
+| [Анализ успешности игры](games) | Статистика продаж видеоигр и определение популярной. | *python pandas scipy matplotlib seaborn* |
 | [Анализ тарифов](tariff_telecom) | Проверка гипотез (статистический тест) на выборке клиентов, какой тариф приносит больше дохода. | *python pandas scipy* |
 
 
