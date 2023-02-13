@@ -1,6 +1,6 @@
 # My_projects
 
-<img src="image/ml.jpg" width="700" >
+<img src="image/ml.jpg" width="670" >
 
 Данные проекты были выполнены в рамках курсов "Специалист по Data Science" и "Deep Learning".
 
